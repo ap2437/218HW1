@@ -1,0 +1,4 @@
+Cloned the node-bulletin-board.
+Built and tested the image. 
+Ran container and tested site using localhost:8000.
+Deleted container.
